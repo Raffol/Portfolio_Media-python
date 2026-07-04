@@ -1,0 +1,33 @@
+{
+  "nav": {
+    "home": "Home",
+    "portfolio": "Portfolio"
+  },
+  "portfolio": {
+    "loading": "Loading…",
+    "empty": "No works yet"
+  },
+  "work": {
+    "back": "← Back to portfolio"
+  },
+  "contact": {
+    "form_title": "Get in touch",
+    "form_hint": "I'll reply within a day",
+    "field_name": "Name",
+    "field_contact": "Contact",
+    "field_contact_placeholder": "Phone, email or social handle",
+    "field_message": "Message",
+    "field_message_placeholder": "Type of shoot, date, ideas…",
+    "submit": "Send",
+    "submitting": "Sending…",
+    "success": "Thank you! Your request is sent, I'll be in touch soon.",
+    "error": "Something went wrong. Please write on social media or call."
+  },
+  "footer": {
+    "rights": "All rights reserved"
+  },
+  "not_found": {
+    "title": "Page not found",
+    "back": "Home"
+  }
+}
